@@ -92,66 +92,66 @@ class _MainScaffoldState extends State<MainScaffold>
         controller: tabControllers[_currentPageIndex],
         children: tabBarViews[_currentPageIndex],
       ),
-      floatingActionButton: (_currentPageIndex == 0 ||
-              (_currentPageIndex == 1 && _currentInnerPageIndex == 1))
-          ? FloatingActionButton(
-              onPressed: () async {
-                if ((_currentPageIndex == 0 && _currentInnerPageIndex == 0)) {
-                } else if (_currentPageIndex == 0 &&
-                    _currentInnerPageIndex == 1) {
-                  if (userProvider.user?.eventPermission != "All" &&
-                      userProvider.user?.eventPermission != "accepted") {
-                    await showDialog<void>(
-                      context: context,
-                      builder: (BuildContext context) {
-                        return AlertDialog(
-                          title: const Text('Permession Required'),
-                          content: Text(userProvider.user?.eventPermission ==
-                                  "None"
-                              ? 'You do not have permission to post events!'
-                              : userProvider.user?.eventPermission ==
-                                      "requested"
-                                  ? 'Permission already requested and is currently pending.'
-                                  : 'Sorry your recent request has been rejected by the admin. If you have any questions or concerns, please contact our support team'),
-                          actions: <Widget>[
-                            userProvider.user?.eventPermission == "None"
-                                ? TextButton(
-                                    onPressed: () async {
-                                      try {
-                                        await _requestPermission(context);
-                                      } catch (error) {
-                                        ScaffoldMessenger.of(context)
-                                            .showSnackBar(SnackBar(
-                                          content: const Text(
-                                              'Failed to post. Please try again later.'),
-                                          backgroundColor: Theme.of(context)
-                                              .colorScheme
-                                              .error,
-                                        ));
-                                        Navigator.pop(context);
-                                      }
-                                    },
-                                    child: const Text('Request Permission'),
-                                  )
-                                : Container(),
-                            TextButton(
-                              onPressed: () {
-                                Navigator.pop(context);
-                              },
-                              child: const Text('OK'),
-                            ),
-                          ],
-                        );
-                      },
-                    );}
-                } else if (_currentPageIndex == 0 &&
-                    _currentInnerPageIndex == 2) {} 
-                    else if (_currentPageIndex == 1 &&
-                    _currentInnerPageIndex == 1) {}
-              },
-              child: const Icon(Icons.edit),
-            )
-          : null,
+      // floatingActionButton: (_currentPageIndex == 0 ||
+      //         (_currentPageIndex == 1 && _currentInnerPageIndex == 1))
+      //     ? FloatingActionButton(
+      //         onPressed: () async {
+      //           if ((_currentPageIndex == 0 && _currentInnerPageIndex == 0)) {
+      //           } else if (_currentPageIndex == 0 &&
+      //               _currentInnerPageIndex == 1) {
+      //             if (userProvider.user?.eventPermission != "All" &&
+      //                 userProvider.user?.eventPermission != "accepted") {
+      //               await showDialog<void>(
+      //                 context: context,
+      //                 builder: (BuildContext context) {
+      //                   return AlertDialog(
+      //                     title: const Text('Permession Required'),
+      //                     content: Text(userProvider.user?.eventPermission ==
+      //                             "None"
+      //                         ? 'You do not have permission to post events!'
+      //                         : userProvider.user?.eventPermission ==
+      //                                 "requested"
+      //                             ? 'Permission already requested and is currently pending.'
+      //                             : 'Sorry your recent request has been rejected by the admin. If you have any questions or concerns, please contact our support team'),
+      //                     actions: <Widget>[
+      //                       userProvider.user?.eventPermission == "None"
+      //                           ? TextButton(
+      //                               onPressed: () async {
+      //                                 try {
+      //                                   await _requestPermission(context);
+      //                                 } catch (error) {
+      //                                   ScaffoldMessenger.of(context)
+      //                                       .showSnackBar(SnackBar(
+      //                                     content: const Text(
+      //                                         'Failed to post. Please try again later.'),
+      //                                     backgroundColor: Theme.of(context)
+      //                                         .colorScheme
+      //                                         .error,
+      //                                   ));
+      //                                   Navigator.pop(context);
+      //                                 }
+      //                               },
+      //                               child: const Text('Request Permission'),
+      //                             )
+      //                           : Container(),
+      //                       TextButton(
+      //                         onPressed: () {
+      //                           Navigator.pop(context);
+      //                         },
+      //                         child: const Text('OK'),
+      //                       ),
+      //                     ],
+      //                   );
+      //                 },
+      //               );}
+      //           } else if (_currentPageIndex == 0 &&
+      //               _currentInnerPageIndex == 2) {} 
+      //               else if (_currentPageIndex == 1 &&
+      //               _currentInnerPageIndex == 1) {}
+      //         },
+      //         child: const Icon(Icons.edit),
+      //       )
+      //     : null,
       bottomNavigationBar: NavBar(
         currentPageIndex: _currentPageIndex,
         onDestinationSelected: (int index) {
