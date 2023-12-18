@@ -4,7 +4,7 @@
             "outputFile": "com.fouram.gucy.app-mergeDebugResources-26:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\GUC\\gucy\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\GUC-Admin\\GUCY-AdminPannel\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,18",
                         "startColumns": "4,4",

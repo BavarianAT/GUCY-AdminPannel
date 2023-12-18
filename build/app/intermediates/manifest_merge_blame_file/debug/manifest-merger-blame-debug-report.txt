@@ -13,66 +13,66 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:2:5-66
-15-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:2:22-64
+15-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:2:5-66
+15-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:2:22-64
 16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-16-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:3:5-80
-16-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:3:22-77
+16-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:3:5-80
+16-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:3:22-77
 17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-17-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:4:5-81
-17-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:4:22-78
+17-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:4:5-81
+17-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:4:22-78
 18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-18-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:5:5-78
-18-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:5:22-76
+18-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:5:5-78
+18-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:5:22-76
 19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-19-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:6:5-75
-19-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:6:22-73
+19-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:6:5-75
+19-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:6:22-73
 20    <uses-permission android:name="android.permission.CAMERA" />
-20-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:7:5-64
-20-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:7:22-62
+20-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:7:5-64
+20-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:7:22-62
 21    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-21-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:8:5-70
-21-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:8:22-68
+21-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:8:5-70
+21-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:8:22-68
 22    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
-22-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:9:5-79
-22-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:9:22-77
+22-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:9:5-79
+22-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:9:22-77
 23    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-23-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:10:5-74
-23-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:10:22-72
+23-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:10:5-74
+23-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:10:22-72
 24    <uses-permission android:name="android.permission.READ_CONTACTS" />
-24-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:11:5-71
-24-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:11:22-69
+24-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:11:5-71
+24-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:11:22-69
 25    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
-25-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:12:5-72
-25-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:12:22-70
+25-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:12:5-72
+25-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:12:22-70
 26    <uses-permission android:name="android.permission.VIBRATE" />
-26-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:13:5-65
-26-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:13:22-63
+26-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:13:5-65
+26-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:13:22-63
 27    <uses-permission android:name="android.permission.WAKE_LOCK" />
-27-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:14:5-67
-27-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:14:22-65
+27-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:14:5-67
+27-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:14:22-65
 28    <uses-permission android:name="android.permission.READ_CALENDAR" />
-28-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:15:5-71
-28-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:15:22-69
+28-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:15:5-71
+28-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:15:22-69
 29    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
-29-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:16:5-72
-29-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:16:22-70
+29-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:16:5-72
+29-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:16:22-70
 30    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> <!-- Permissions options for the `notification` group -->
-30-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:17:5-78
-30-->D:\GUC\gucy\android\app\src\main\AndroidManifest.xml:17:22-76
+30-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:17:5-78
+30-->D:\GUC-Admin\GUCY-AdminPannel\android\app\src\main\AndroidManifest.xml:17:22-76
 31    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-31-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-77
-31-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-74
+31-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-77
+31-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-74
 32    <uses-permission android:name="android.permission.CALL_PHONE" />
-32-->[:flutter_phone_direct_caller] D:\GUC\gucy\build\flutter_phone_direct_caller\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-69
-32-->[:flutter_phone_direct_caller] D:\GUC\gucy\build\flutter_phone_direct_caller\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-66
+32-->[:flutter_phone_direct_caller] D:\GUC-Admin\GUCY-AdminPannel\build\flutter_phone_direct_caller\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-69
+32-->[:flutter_phone_direct_caller] D:\GUC-Admin\GUCY-AdminPannel\build\flutter_phone_direct_caller\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-66
 33
 34    <uses-feature
-34-->[:flutter_phone_direct_caller] D:\GUC\gucy\build\flutter_phone_direct_caller\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-13:36
+34-->[:flutter_phone_direct_caller] D:\GUC-Admin\GUCY-AdminPannel\build\flutter_phone_direct_caller\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-13:36
 35        android:name="android.hardware.telephony"
-35-->[:flutter_phone_direct_caller] D:\GUC\gucy\build\flutter_phone_direct_caller\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-50
+35-->[:flutter_phone_direct_caller] D:\GUC-Admin\GUCY-AdminPannel\build\flutter_phone_direct_caller\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-50
 36        android:required="false" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-36-->[:flutter_phone_direct_caller] D:\GUC\gucy\build\flutter_phone_direct_caller\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-33
+36-->[:flutter_phone_direct_caller] D:\GUC-Admin\GUCY-AdminPannel\build\flutter_phone_direct_caller\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-33
 37    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 37-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\ataha\.gradle\caches\transforms-3\a693bd55d35e2c8adb4fb93735c4124a\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:26:5-82
 37-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\ataha\.gradle\caches\transforms-3\a693bd55d35e2c8adb4fb93735c4124a\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:26:22-79
@@ -135,43 +135,43 @@
 86            android:value="2" />
 87
 88        <service
-88-->[:firebase_auth] D:\GUC\gucy\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+88-->[:firebase_auth] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 89            android:name="com.google.firebase.components.ComponentDiscoveryService"
-89-->[:firebase_auth] D:\GUC\gucy\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+89-->[:firebase_auth] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
 90            android:directBootAware="true"
 90-->[com.google.firebase:firebase-common:20.4.2] C:\Users\ataha\.gradle\caches\transforms-3\29429379be0edfde063e43fae29f4d1b\transformed\jetified-firebase-common-20.4.2\AndroidManifest.xml:32:13-43
 91            android:exported="false" >
 91-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\ataha\.gradle\caches\transforms-3\8f321ae7b2fefec4ba0b738a6fb8396c\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:68:13-37
 92            <meta-data
-92-->[:firebase_auth] D:\GUC\gucy\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+92-->[:firebase_auth] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 93                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-93-->[:firebase_auth] D:\GUC\gucy\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+93-->[:firebase_auth] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 94                android:value="com.google.firebase.components.ComponentRegistrar" />
-94-->[:firebase_auth] D:\GUC\gucy\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+94-->[:firebase_auth] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 95            <meta-data
-95-->[:firebase_storage] D:\GUC\gucy\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+95-->[:firebase_storage] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 96                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-96-->[:firebase_storage] D:\GUC\gucy\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-126
+96-->[:firebase_storage] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-126
 97                android:value="com.google.firebase.components.ComponentRegistrar" />
-97-->[:firebase_storage] D:\GUC\gucy\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+97-->[:firebase_storage] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_storage\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 98            <meta-data
-98-->[:cloud_firestore] D:\GUC\gucy\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+98-->[:cloud_firestore] D:\GUC-Admin\GUCY-AdminPannel\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 99                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-99-->[:cloud_firestore] D:\GUC\gucy\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
+99-->[:cloud_firestore] D:\GUC-Admin\GUCY-AdminPannel\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
 100                android:value="com.google.firebase.components.ComponentRegistrar" />
-100-->[:cloud_firestore] D:\GUC\gucy\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+100-->[:cloud_firestore] D:\GUC-Admin\GUCY-AdminPannel\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 101            <meta-data
-101-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-40:85
+101-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-40:85
 102                android:name="com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar"
-102-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:39:17-128
+102-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:39:17-128
 103                android:value="com.google.firebase.components.ComponentRegistrar" />
-103-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:40:17-82
+103-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:40:17-82
 104            <meta-data
-104-->[:firebase_core] D:\GUC\gucy\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+104-->[:firebase_core] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 105                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-105-->[:firebase_core] D:\GUC\gucy\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+105-->[:firebase_core] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 106                android:value="com.google.firebase.components.ComponentRegistrar" />
-106-->[:firebase_core] D:\GUC\gucy\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+106-->[:firebase_core] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 107            <meta-data
 107-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\ataha\.gradle\caches\transforms-3\8f321ae7b2fefec4ba0b738a6fb8396c\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:69:13-71:85
 108                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -264,79 +264,79 @@
 151-->[com.google.firebase:firebase-datatransport:18.1.7] C:\Users\ataha\.gradle\caches\transforms-3\e581c130301c10ce6b8c5359bcdffea7\transformed\jetified-firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
 152        </service>
 153        <service
-153-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-19:72
+153-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-19:72
 154            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService"
-154-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-107
+154-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-107
 155            android:exported="false"
-155-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
+155-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
 156            android:permission="android.permission.BIND_JOB_SERVICE" />
-156-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-69
+156-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-69
 157        <service
-157-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-26:19
+157-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-26:19
 158            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
-158-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-97
+158-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-97
 159            android:exported="false" >
-159-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-37
+159-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-37
 160            <intent-filter>
-160-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
+160-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
 161                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-161-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
-161-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
+161-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
+161-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
 162            </intent-filter>
 163        </service>
 164
 165        <receiver
-165-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-35:20
+165-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-35:20
 166            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
-166-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-98
+166-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-98
 167            android:exported="true"
-167-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-36
+167-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-36
 168            android:permission="com.google.android.c2dm.permission.SEND" >
-168-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-73
+168-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-73
 169            <intent-filter>
-169-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
+169-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
 170                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-170-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
-170-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
+170-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
+170-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
 171            </intent-filter>
 172        </receiver>
 173
 174        <provider
-174-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-47:38
+174-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-47:38
 175            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
-175-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-102
+175-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-102
 176            android:authorities="com.fouram.gucy.flutterfirebasemessaginginitprovider"
-176-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-88
+176-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-88
 177            android:exported="false"
-177-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-37
+177-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-37
 178            android:initOrder="99" />
-178-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-35
+178-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-35
 179        <provider
-179-->[:image_picker_android] D:\GUC\gucy\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+179-->[:image_picker_android] D:\GUC-Admin\GUCY-AdminPannel\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
 180            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-180-->[:image_picker_android] D:\GUC\gucy\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
+180-->[:image_picker_android] D:\GUC-Admin\GUCY-AdminPannel\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-82
 181            android:authorities="com.fouram.gucy.flutter.image_provider"
-181-->[:image_picker_android] D:\GUC\gucy\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
+181-->[:image_picker_android] D:\GUC-Admin\GUCY-AdminPannel\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-74
 182            android:exported="false"
-182-->[:image_picker_android] D:\GUC\gucy\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+182-->[:image_picker_android] D:\GUC-Admin\GUCY-AdminPannel\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
 183            android:grantUriPermissions="true" >
-183-->[:image_picker_android] D:\GUC\gucy\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+183-->[:image_picker_android] D:\GUC-Admin\GUCY-AdminPannel\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
 184            <meta-data
-184-->[:image_picker_android] D:\GUC\gucy\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
+184-->[:image_picker_android] D:\GUC-Admin\GUCY-AdminPannel\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-17:75
 185                android:name="android.support.FILE_PROVIDER_PATHS"
-185-->[:image_picker_android] D:\GUC\gucy\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
+185-->[:image_picker_android] D:\GUC-Admin\GUCY-AdminPannel\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:16:17-67
 186                android:resource="@xml/flutter_image_picker_file_paths" />
-186-->[:image_picker_android] D:\GUC\gucy\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
+186-->[:image_picker_android] D:\GUC-Admin\GUCY-AdminPannel\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:17:17-72
 187        </provider>
 188
 189        <activity
-189-->[:url_launcher_android] D:\GUC\gucy\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
+189-->[:url_launcher_android] D:\GUC-Admin\GUCY-AdminPannel\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
 190            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-190-->[:url_launcher_android] D:\GUC\gucy\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
+190-->[:url_launcher_android] D:\GUC-Admin\GUCY-AdminPannel\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
 191            android:exported="false"
-191-->[:url_launcher_android] D:\GUC\gucy\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+191-->[:url_launcher_android] D:\GUC-Admin\GUCY-AdminPannel\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
 192            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-192-->[:url_launcher_android] D:\GUC\gucy\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
+192-->[:url_launcher_android] D:\GUC-Admin\GUCY-AdminPannel\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
 193        <activity
 193-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\ataha\.gradle\caches\transforms-3\8f321ae7b2fefec4ba0b738a6fb8396c\transformed\jetified-firebase-auth-22.3.0\AndroidManifest.xml:29:9-46:20
 194            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
@@ -417,10 +417,10 @@
 233            android:permission="com.google.android.c2dm.permission.SEND" >
 233-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\ataha\.gradle\caches\transforms-3\a693bd55d35e2c8adb4fb93735c4124a\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:32:13-73
 234            <intent-filter>
-234-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
+234-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
 235                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-235-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
-235-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
+235-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
+235-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
 236            </intent-filter>
 237
 238            <meta-data
@@ -443,10 +443,10 @@
 249            android:exported="false" >
 249-->[com.google.firebase:firebase-messaging:23.3.1] C:\Users\ataha\.gradle\caches\transforms-3\a693bd55d35e2c8adb4fb93735c4124a\transformed\jetified-firebase-messaging-23.3.1\AndroidManifest.xml:49:13-37
 250            <intent-filter android:priority="-500" >
-250-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
+250-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
 251                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-251-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
-251-->[:firebase_messaging] D:\GUC\gucy\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
+251-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
+251-->[:firebase_messaging] D:\GUC-Admin\GUCY-AdminPannel\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
 252            </intent-filter>
 253        </service>
 254

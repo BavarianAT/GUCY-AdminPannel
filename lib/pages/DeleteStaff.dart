@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-// import 'StaffProfilePage.dart';
+import 'StaffProfilePage.dart';
 import '../models/staff_data.dart';
 
 class DelteStaff extends StatefulWidget {
@@ -292,15 +292,29 @@ class _DelteStaffState extends State<DelteStaff> {
                     IconButton(
                       icon: Icon(
                         Icons.delete,
-                        color: Colors.red,
+                        color: const Color.fromARGB(255, 132, 27, 19),
                       ),
                       onPressed: () {
                         _showDeleteConfirmationDialog(staff);
+                      },
+                    ),IconButton(
+                      icon: Icon(
+                        Icons.comment,
+                        color: const Color.fromARGB(255, 135, 37, 30),
+                      ),
+                      onPressed: () {
+                         Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => StaffProfilePage(staff: staff),
+                          ),
+                        );
                       },
                     ),
                   ],
                 ),
               ),
+              
             ],
           ),
         ]));

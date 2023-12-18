@@ -4,6 +4,7 @@ import 'package:gucy/models/outlets_data.dart';
 // import 'package:gucy/pages/OutletProfilePage.dart';
 // import 'package:gucy/pages/outlet_service.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:gucy/pages/OutletProfilePage.dart';
 import '../models/outlets_data.dart';
 
 class DeleteOutlet extends StatefulWidget {
@@ -192,10 +193,23 @@ class _DeleteOutletState extends State<DeleteOutlet> {
                     IconButton(
                       icon: Icon(
                         Icons.delete,
-                        color: Colors.red,
+                        color: const Color.fromARGB(255, 132, 27, 19),
                       ),
                       onPressed: () {
                         _showDeleteConfirmationDialog(outlet);
+                      },
+                    ),IconButton(
+                      icon: Icon(
+                        Icons.comment,
+                        color: const Color.fromARGB(255, 135, 37, 30),
+                      ),
+                      onPressed: () {
+                         Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => OutletProfilePage(outlet: outlet),
+                          ),
+                        );
                       },
                     ),
                   ],

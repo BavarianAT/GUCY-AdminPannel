@@ -1542,7 +1542,7 @@
             "outputFile": "com.fouram.gucy.app-merged_res-28:/values-night-v31_values-night-v31.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\GUC\\gucy\\android\\app\\src\\main\\res\\values-night-v31\\styles.xml",
+                    "source": "D:\\GUC-Admin\\GUCY-AdminPannel\\android\\app\\src\\main\\res\\values-night-v31\\styles.xml",
                     "from": {
                         "startLines": "3,15",
                         "startColumns": "4,4",
@@ -1970,7 +1970,7 @@
             "outputFile": "com.fouram.gucy.app-merged_res-28:/values-v31_values-v31.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\GUC\\gucy\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
+                    "source": "D:\\GUC-Admin\\GUCY-AdminPannel\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
                     "from": {
                         "startLines": "3,15",
                         "startColumns": "4,4",
@@ -3747,25 +3747,6 @@
                     }
                 },
                 {
-                    "source": "D:\\GUC\\gucy\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,18",
-                        "startColumns": "4,4",
-                        "startOffsets": "176,1107",
-                        "endLines": "11,20",
-                        "endColumns": "12,12",
-                        "endOffsets": "758,1273"
-                    },
-                    "to": {
-                        "startLines": "146,154",
-                        "startColumns": "4,4",
-                        "startOffsets": "10315,10767",
-                        "endLines": "153,156",
-                        "endColumns": "12,12",
-                        "endOffsets": "10762,10931"
-                    }
-                },
-                {
                     "source": "C:\\Users\\ataha\\.gradle\\caches\\transforms-3\\a693bd55d35e2c8adb4fb93735c4124a\\transformed\\jetified-firebase-messaging-23.3.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -3848,6 +3829,25 @@
                         "startOffsets": "6814,8586",
                         "endColumns": "67,166",
                         "endOffsets": "6877,8748"
+                    }
+                },
+                {
+                    "source": "D:\\GUC-Admin\\GUCY-AdminPannel\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,1107",
+                        "endLines": "11,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "758,1273"
+                    },
+                    "to": {
+                        "startLines": "146,154",
+                        "startColumns": "4,4",
+                        "startOffsets": "10315,10767",
+                        "endLines": "153,156",
+                        "endColumns": "12,12",
+                        "endOffsets": "10762,10931"
                     }
                 }
             ]
@@ -4237,7 +4237,7 @@
             "outputFile": "com.fouram.gucy.app-merged_res-28:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\GUC\\gucy\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\GUC-Admin\\GUCY-AdminPannel\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,18",
                         "startColumns": "4,4",

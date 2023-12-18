@@ -1,7 +1,7 @@
-#Mon Dec 18 01:14:43 EET 2023
-base.0=D\:\\GUC\\gucy\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-base.1=D\:\\GUC\\gucy\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
-base.2=D\:\\GUC\\gucy\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes3.dex
+#Mon Dec 18 14:51:28 EET 2023
+base.0=D\:\\GUC-Admin\\GUCY-AdminPannel\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+base.1=D\:\\GUC-Admin\\GUCY-AdminPannel\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+base.2=D\:\\GUC-Admin\\GUCY-AdminPannel\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes3.dex
 path.0=classes.dex
 path.1=classes2.dex
 path.2=classes3.dex
