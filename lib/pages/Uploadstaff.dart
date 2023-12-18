@@ -140,7 +140,7 @@ class _UploadStaffState extends State<UploadStaff> {
     // Push the new contact to Firebase database with an auto-generated ID
     emegencyNumbersCollection.add(newOutlet.toJson()).then((value) {
         ScaffoldMessenger.of(context).showSnackBar(
-          SnackBar(content: Text('Outlet added successfully')),
+          SnackBar(content: Text('Staff added successfully')),
         );
         // Clear the text fields after submission
         imageController.clear();
