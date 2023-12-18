@@ -52,20 +52,6 @@ class _UploadContactPageState extends State<UploadContactPage> {
                   return null;
                 },
               ),
-              SizedBox(height: 12.0),
-              Row(
-                children: <Widget>[
-                  Text('Is it an emergency?'),
-                  Checkbox(
-                    value: isEmergency,
-                    onChanged: (value) {
-                      setState(() {
-                        isEmergency = value!;
-                      });
-                    },
-                  ),
-                ],
-              ),
               SizedBox(height: 20.0),
               ElevatedButton(
                 onPressed: () {
@@ -88,8 +74,7 @@ class _UploadContactPageState extends State<UploadContactPage> {
       FirebaseFirestore.instance.collection('contacts');
       Contacts newcontact = Contacts(
       name : name ,
-      phoneNumber: phoneNumber,
-      isEmergency: isEmergency
+      phoneNumber: phoneNumber
     );
     // Push the new contact to Firebase database with an auto-generated ID
     emegencyNumbersCollection.add(newcontact.toJson()).then((value) {

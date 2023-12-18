@@ -13,8 +13,7 @@ Future<List<Contacts>> getemergencyNums() async {
       Contacts contact = Contacts(
             id: document.id,
             name: emergencyNum['name'],
-            phoneNumber: emergencyNum['phoneNumber'],
-            isEmergency: emergencyNum['isEmergency']
+            phoneNumber: emergencyNum['phoneNumber']
           );
       allemergencyNums.add(contact);
     }

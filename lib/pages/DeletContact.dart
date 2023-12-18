@@ -113,13 +113,9 @@ class _DeleteContactState extends State<DeleteContact> {
                             fontWeight: FontWeight.w500, fontSize: 20),
                       ),
                       SizedBox(height: 5),
-                      Text(
-                        contact.isEmergency
-                            ? 'Emergency contact'
-                            : 'Normal contact',
+                      Text('Emergency contact',
                         style: TextStyle(
-                          color:
-                              contact.isEmergency ? Colors.red : Colors.green,
+                          color: Color.fromARGB(255, 145, 39, 31) ,
                           fontSize: 12,
                         ),
                       ),
@@ -134,7 +130,7 @@ class _DeleteContactState extends State<DeleteContact> {
                     IconButton(
                       icon: Icon(
                         Icons.delete,
-                        color: Colors.red,
+                        color: const Color.fromARGB(255, 145, 34, 26),
                       ),
                       onPressed: () {
                         _showDeleteConfirmationDialog(contact);
