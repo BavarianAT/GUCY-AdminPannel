@@ -31,7 +31,7 @@ class _UploadStaffState extends State<UploadStaff> {
         padding: EdgeInsets.all(16.0),
         child: Form(
           key: _formKey,
-          child: Column(
+          child: SingleChildScrollView(child:Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: <Widget>[
               TextFormField(
@@ -107,7 +107,7 @@ class _UploadStaffState extends State<UploadStaff> {
                 child: Text('Submit'),
               ),
             ],
-          ),
+          ),)
         ),
       ),
     );

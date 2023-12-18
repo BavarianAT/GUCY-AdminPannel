@@ -16,20 +16,20 @@ class NavBar extends StatelessWidget {
       selectedIndex: currentPageIndex,
       destinations: const <Widget>[
         NavigationDestination(
-          selectedIcon: Icon(Icons.home),
-          icon: Icon(Icons.home_outlined),
-          label: 'Home',
+          selectedIcon: Icon(Icons.people),
+          icon: Icon(Icons.people),
+          label: 'Staff',
         ),
         NavigationDestination(
-          icon: Badge(child: Icon(Icons.notifications_sharp)),
-          label: 'Academics',
+          icon: Badge(child: Icon(Icons.home)),
+          label: 'Outlets',
         ),
         NavigationDestination(
           icon: Badge(
             label: Text('2'),
-            child: Icon(Icons.messenger_sharp),
+            child: Icon(Icons.phone),
           ),
-          label: 'Facilities',
+          label: 'Contacts',
         ),
       ],
     );
