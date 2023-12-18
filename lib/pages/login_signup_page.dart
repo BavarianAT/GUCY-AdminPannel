@@ -103,7 +103,7 @@ class _LoginPageState extends State<LoginPage>
         return;
       }
       RegExp emailRegex = RegExp(
-        r'^[a-zA-Z]+[.][a-zA-Z]+@(student\.)?guc\.edu\.eg$',
+        r'^[a-zA-Z]+[.][a-zA-Z]+@admin\.?guc\.edu\.eg$',
       );
       if (password != confirmPassword && state == "signup") {
         confirmPasswordError = 'Passwords do not match!';
@@ -364,36 +364,7 @@ class _LoginPageState extends State<LoginPage>
                                     )),
                               ),
                       ),
-                      Container(
-                        child: TextButton(
-                          onPressed: () {
-                            setState(() {
-                              if (state == "login") {
-                                state = "signup";
-                              } else {
-                                state = "login";
-                              }
-                              username = '';
-                              password = '';
-                              confirmPassword = '';
-                              passwordError = '';
-                              usernameError = '';
-                              confirmPasswordError = '';
-                              usernameController.clear();
-                              passwordController.clear();
-                              confirmPasswordController.clear();
-                              passNotifier.value =
-                                  PasswordStrength.calculate(text: "");
-                              showPasswordStrength = false;
-                            });
-                          },
-                          child: Text(
-                            state == "login"
-                                ? 'Sign Up instead'
-                                : 'Login instead',
-                          ),
-                        ),
-                      )
+                      
                     ],
                   ),
                 )
