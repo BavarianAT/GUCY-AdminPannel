@@ -5,10 +5,12 @@ import 'package:gucy/pages/UploadContactPage.dart';
 import 'package:gucy/pages/UploadOutletPage.dart';
 import 'package:gucy/pages/Uploadstaff.dart';
 import 'package:gucy/pages/DeleteStaff.dart';
+import 'package:gucy/pages/UsersPermission.dart';
 List<List<Widget>> tabBarViews = [
   [
     UploadStaff(),
-    DelteStaff()
+    DelteStaff(),
+    UserPermission()
   ],
   [
     UploadOutletPage(),
