@@ -212,7 +212,7 @@ class _UserPermissionState extends State<UserPermission> {
       FirebaseFirestore.instance
           .collection('users')
           .doc(x)
-          .update({'eventPermission': "All"})
+          .update({'eventPermission': "accepted"})
           .then((value) => print("User updated"))
           .catchError((error) => print("Failed to update user: $error"));
     else
