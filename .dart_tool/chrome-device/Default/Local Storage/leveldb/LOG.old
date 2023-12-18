@@ -1,12 +1,4 @@
-2023/12/18-03:00:26.662 50a8 Reusing MANIFEST C:\Users\ataha\AppData\Local\Temp\flutter_tools.68ed3762\flutter_tools_chrome_device.be17a606\Default\Local Storage\leveldb/MANIFEST-000001
-2023/12/18-03:00:26.666 50a8 Recovering log #3
-2023/12/18-03:00:26.670 50a8 Reusing old log C:\Users\ataha\AppData\Local\Temp\flutter_tools.68ed3762\flutter_tools_chrome_device.be17a606\Default\Local Storage\leveldb/000003.log 
-2023/12/18-03:02:53.218 5bcc Level-0 table #5: started
-2023/12/18-03:02:53.230 5bcc Level-0 table #5: 52128 bytes OK
-2023/12/18-03:02:53.237 5bcc Delete type=0 #3
-2023/12/18-03:04:53.218 5bcc Level-0 table #7: started
-2023/12/18-03:04:53.233 5bcc Level-0 table #7: 50959 bytes OK
-2023/12/18-03:04:53.240 5bcc Delete type=0 #4
-2023/12/18-03:17:52.646 50a8 Level-0 table #9: started
-2023/12/18-03:17:52.658 50a8 Level-0 table #9: 141756 bytes OK
-2023/12/18-03:17:52.662 50a8 Delete type=0 #6
+2023/12/18-03:21:18.684 4dfc Reusing MANIFEST C:\Users\ataha\AppData\Local\Temp\flutter_tools.38a3ed5d\flutter_tools_chrome_device.2fb7df45\Default\Local Storage\leveldb/MANIFEST-000001
+2023/12/18-03:21:18.688 4dfc Recovering log #8
+2023/12/18-03:21:18.693 4dfc Reusing old log C:\Users\ataha\AppData\Local\Temp\flutter_tools.38a3ed5d\flutter_tools_chrome_device.2fb7df45\Default\Local Storage\leveldb/000008.log 
+2023/12/18-03:21:18.696 4dfc Delete type=0 #3

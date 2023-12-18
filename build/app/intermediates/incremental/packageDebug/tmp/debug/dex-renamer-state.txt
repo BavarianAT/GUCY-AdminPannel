@@ -1,4 +1,4 @@
-#Mon Dec 18 14:51:28 EET 2023
+#Mon Dec 18 21:08:48 EET 2023
 base.0=D\:\\GUC-Admin\\GUCY-AdminPannel\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 base.1=D\:\\GUC-Admin\\GUCY-AdminPannel\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
 base.2=D\:\\GUC-Admin\\GUCY-AdminPannel\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes3.dex
